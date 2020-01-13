@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo 'Enter the First Number :'
+echo 'Enter the First no. :'
 read a
 echo 'Enter the Second Number :'
 read b
