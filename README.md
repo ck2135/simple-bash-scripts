@@ -1,6 +1,6 @@
 A collection of simple Bash scripts.
 
-## Getting Started
+## Getting Started..
 
 1. [Hello.sh](scripts/hello-world.sh): get a simple output
 1. [Process.sh](scripts/process.sh): execute more than one command in a script
